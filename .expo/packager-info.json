@@ -2,8 +2,8 @@
   "devToolsPort": 19002,
   "expoServerPort": 19000,
   "packagerPort": 19001,
-  "packagerPid": 3896,
-  "expoServerNgrokUrl": null,
-  "packagerNgrokUrl": null,
-  "ngrokPid": null
+  "packagerPid": 14858,
+  "expoServerNgrokUrl": "https://4a-unj.code-minnam.weatherapp.exp.direct",
+  "packagerNgrokUrl": "https://packager.4a-unj.code-minnam.weatherapp.exp.direct",
+  "ngrokPid": 14877
 }
